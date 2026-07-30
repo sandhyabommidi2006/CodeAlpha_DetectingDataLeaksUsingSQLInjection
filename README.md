@@ -32,12 +32,14 @@ This project demonstrates the implementation of a basic online ticket reservatio
 
 ---
 ## ⚡How to Run
-1.
-Install Flask
-2.
-Run app.py
-3.
-Open http:
+
+1.Install Flask
+
+2.Run app.py
+
+3.Open http:
+
+---
 
 ## 📖 How It Works
 
