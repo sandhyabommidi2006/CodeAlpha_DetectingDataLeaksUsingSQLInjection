@@ -31,7 +31,7 @@ This project demonstrates the implementation of a basic online ticket reservatio
 - SQLite
 
 ---
-##How to Run
+## ⚡How to Run
 1.
 Install Flask
 2.
