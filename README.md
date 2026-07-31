@@ -1,24 +1,24 @@
-# 🚌 Online Bus Ticket Booking System
+# 🛡️ Secure Cloud Data Leak Detection System Using SQL Injection Prevention
 
-## 📌 Project Overview
-
-The **Online Bus Ticket Booking System** is a web-based application developed using **Python (Flask)**, **HTML**, **CSS**, and **SQLite**. It allows users to search for buses, book tickets, manage passenger details, and view booking information through a simple and user-friendly interface.
-
-This project demonstrates the implementation of a basic online ticket reservation system with database integration and CRUD (Create, Read, Update, Delete) operations.
+A cloud-based web application developed as **Task 2** for the **CodeAlpha Internship**. The project focuses on protecting user data from SQL Injection attacks using secure coding practices, AES-256 encryption, and multi-layer security mechanisms.
 
 ---
 
-## ✨ Features
+## 📌 Project Overview
 
-- 👤 User Registration and Login
-- 🚌 Search Available Buses
-- 🎫 Book Bus Tickets
-- 💺 Seat Reservation
-- 📋 View Booking History
-- ✏️ Update Booking Details
-- ❌ Cancel Bookings
-- 💾 Secure Data Storage using SQLite
-- 📱 Responsive User Interface
+This application provides a secure environment for storing and managing user information while preventing SQL Injection attacks. It encrypts sensitive data using AES-256 encryption and applies multiple security layers to minimize the risk of data leaks.
+
+---
+
+## 🚀 Features
+
+- 🔐 AES-256 encryption for sensitive user data
+- 🛡️ SQL Injection detection and prevention
+- 🔑 Secure user authentication
+- 🔒 Double-layer security mechanism
+- ☁️ Cloud-based architecture
+- 📊 SQLite database for secure data storage
+- 🌐 User-friendly web interface
 
 ---
 
@@ -26,52 +26,43 @@ This project demonstrates the implementation of a basic online ticket reservatio
 
 - Python
 - Flask
+- SQLite
 - HTML5
 - CSS3
-- SQLite
-
----
-## ⚡How to Run
-
-1.Install Flask
-
-2.Run app.py
-
-3.Open http: http://127.0.0.1:5000
+- Bootstrap
+- Cryptography (AES-256)
 
 ---
 
-## 📖 How It Works
+## 🔒 Security Features
 
-1. Register a new account.
-2. Login with your credentials.
-3. Search for available buses.
-4. Select your preferred bus and enter passenger details.
-5. Confirm the booking.
-6. View, update, or cancel bookings from the dashboard.
-
----
-
-## 🎯 Project Objectives
-
-- Simplify the bus ticket booking process.
-- Store booking information securely.
-- Provide an easy-to-use interface.
-- Demonstrate Flask-based web application development.
-- Implement database connectivity and CRUD operations.
+- AES-256 encryption for sensitive information
+- Prevention of SQL Injection attacks
+- Parameterized SQL queries
+- Encrypted credential storage
+- Multi-layer authentication and security
+- Secure database operations
 
 ---
 
-## 🚀 Future Enhancements
+## 🎯 Learning Outcomes
 
-- Online Payment Gateway Integration
-- Email Ticket Confirmation
-- QR Code Based Tickets
-- Live Bus Tracking
-- Admin Dashboard
-- Cloud Database Integration (Firebase/MySQL)
-- E-Ticket PDF Download
+- Cloud Application Development
+- SQL Injection Prevention
+- Data Encryption using AES-256
+- Secure Database Design
+- Flask Web Development
+- Cybersecurity Best Practices
 
 ---
 
+## 📚 Future Improvements
+
+- Multi-Factor Authentication (MFA)
+- Role-Based Access Control
+- Cloud Database Integration
+- Email Verification
+- Security Logging and Monitoring
+
+---
 
