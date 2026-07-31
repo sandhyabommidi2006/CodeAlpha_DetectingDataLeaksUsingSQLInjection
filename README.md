@@ -1,4 +1,4 @@
-# 🛡️ Secure Cloud Data Leak Detection System Using SQL Injection Prevention
+## 🛡️ Secure Cloud Data Leak Detection System Using SQL Injection Prevention
 
 A cloud-based web application developed as **Task 2** for the **CodeAlpha Internship**. The project focuses on protecting user data from SQL Injection attacks using secure coding practices, AES-256 encryption, and multi-layer security mechanisms.
 
