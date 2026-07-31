@@ -45,6 +45,15 @@ This application provides a secure environment for storing and managing user inf
 
 ---
 
+## How to Run
+
+1.
+Install Flask
+2.
+Run app.py
+3.
+Open http: http://127.0.0.1:5000
+
 ## 🎯 Learning Outcomes
 
 - Cloud Application Development
